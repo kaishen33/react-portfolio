@@ -7,7 +7,6 @@ import Footer from "./components/Footer";
 import About from "./pages/About";
 import Portfolio from "./pages/Portfolio";
 import Search from "./pages/Search";
-
 import './App.css';
 
 function App() {
