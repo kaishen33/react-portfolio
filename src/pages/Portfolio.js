@@ -1,4 +1,13 @@
 import React, { Component } from "react";
+import finalProject from "../assets/Controller.png"
+import track from "../assets/Employee Track.png"
+import exercise from "../assets/Exercise.png"
+import filter from "../assets/Filter List.png"
+import music from "../assets/Music Project.png"
+import list from "../assets/Profile List.png"
+import rental from "../assets/Rental.png"
+import schedule from "../assets/Schedule.png"
+import weather from "../assets/Weather.png"
 
 class Portfolio extends Component {
 
@@ -11,17 +20,17 @@ class Portfolio extends Component {
         <div className="row">
 
           <div className="card col-md-4" style-prop-object="width: 18rem;">
-            <img src="assets/Music Project.JPG" className="card-img-top" alt="Music Project Logo"></img>
+            <img src={music} className="card-img-top" alt="Music Project Logo"></img>
 
           </div>
 
           <div className="card col-md-4" style-prop-object="width: 18rem;">
-            <img src="assets/Schedule.JPG" className="card-img-top" alt="Schedule Logo"></img>
+            <img src={schedule} className="card-img-top" alt="Schedule Logo"></img>
 
           </div>
 
           <div className="card col-md-4" style-prop-object="width: 18rem;">
-            <img src="assets/Weather.JPG" className="card-img-top" alt="Weather Logo"></img>
+            <img src={weather} className="card-img-top" alt="Weather Logo"></img>
 
           </div>
 
@@ -54,17 +63,17 @@ class Portfolio extends Component {
         <div className="row">
 
           <div className="card col-md-4" style-prop-object="width: 18rem;">
-            <img src="assets/Employee Track.JPG" className="card-img-top" alt="Employee Tracker Logo"></img>
+            <img src={track} className="card-img-top" alt="Employee Tracker Logo"></img>
 
           </div>
 
           <div className="card col-md-4" style-prop-object="width: 18rem;">
-            <img src="assets/Profile List.JPG" className="card-img-top" alt="Employee Profling Logo"></img>
+            <img src={list} className="card-img-top" alt="Employee Profling Logo"></img>
 
           </div>
 
           <div className="card col-md-4" style-prop-object="width: 18rem;">
-            <img src="assets/Rental.JPG" className="card-img-top" alt="Vacation Logo"></img>
+            <img src={rental} className="card-img-top" alt="Vacation Logo"></img>
 
           </div>
 
@@ -97,17 +106,17 @@ class Portfolio extends Component {
         <div className="row">
 
           <div className="card col-md-4" style-prop-object="width: 18rem;">
-            <img src="assets/Exercise.JPG" className="card-img-top" alt="Exercise Mongodb Logo"></img>
+            <img src={exercise} className="card-img-top" alt="Exercise Mongodb Logo"></img>
 
           </div>
 
           <div className="card col-md-4" style-prop-object="width: 18rem;">
-            <img src="assets/Filter List.JPG" className="card-img-top" alt="React Filter List Logo"></img>
+            <img src={filter} className="card-img-top" alt="React Filter List Logo"></img>
 
           </div>
 
           <div className="card col-md-4" style-prop-object="width: 18rem;">
-            <img src="assets/Controller.JPG" className="card-img-top" alt="Final Phantasy Logo"></img>
+            <img src={finalProject} className="card-img-top" alt="Final Phantasy Logo"></img>
 
           </div>
 
