@@ -19,17 +19,17 @@ class Portfolio extends Component {
 
         <div className="row">
 
-          <div className="card col-md-4" style-prop-object="width: 18rem, height: 18rem;">
+          <div className="card col-md-4" style-prop-object="width: 18rem;">
             <img src={music} className="card-img-top" alt="Music Project Logo"></img>
 
           </div>
 
-          <div className="card col-md-4" style-prop-object="width: 18rem, height: 18rem;">
+          <div className="card col-md-4" style-prop-object="width: 18rem;">
             <img src={schedule} className="card-img-top" alt="Schedule Logo"></img>
 
           </div>
 
-          <div className="card col-md-4" style-prop-object="width: 18rem, height: 18rem;">
+          <div className="card col-md-4" style-prop-object="width: 18rem;">
             <img src={weather} className="card-img-top" alt="Weather Logo"></img>
 
           </div>
@@ -62,17 +62,17 @@ class Portfolio extends Component {
 
         <div className="row">
 
-          <div className="card col-md-4" style-prop-object="width: 18rem, height: 18rem;">
+          <div className="card col-md-4" style-prop-object="width: 18rem;">
             <img src={track} className="card-img-top" alt="Employee Tracker Logo"></img>
 
           </div>
 
-          <div className="card col-md-4" style-prop-object="width: 18rem, height: 18rem;">
+          <div className="card col-md-4" style-prop-object="width: 18rem;">
             <img src={list} className="card-img-top" alt="Employee Profling Logo"></img>
 
           </div>
 
-          <div className="card col-md-4" style-prop-object="width: 18rem, height: 18rem;">
+          <div className="card col-md-4" style-prop-object="width: 18rem;">
             <img src={rental} className="card-img-top" alt="Vacation Logo"></img>
 
           </div>
@@ -105,17 +105,17 @@ class Portfolio extends Component {
 
         <div className="row">
 
-          <div className="card col-md-4" style-prop-object="width: 18rem, height: 18rem;">
+          <div className="card col-md-4" style-prop-object="width: 18rem;">
             <img src={exercise} className="card-img-top" alt="Exercise Mongodb Logo"></img>
 
           </div>
 
-          <div className="card col-md-4" style-prop-object="width: 18rem, height: 18rem;">
+          <div className="card col-md-4" style-prop-object="width: 18rem;">
             <img src={filter} className="card-img-top" alt="React Filter List Logo"></img>
 
           </div>
 
-          <div className="card col-md-4" style-prop-object="width: 18rem, height: 18rem;">
+          <div className="card col-md-4" style-prop-object="width: 18rem;">
             <img src={finalProject} className="card-img-top" alt="Final Phantasy Logo"></img>
 
           </div>
