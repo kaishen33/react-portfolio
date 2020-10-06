@@ -8,6 +8,7 @@ import list from "../assets/Profile List.png"
 import rental from "../assets/Rental.png"
 import schedule from "../assets/Schedule.png"
 import weather from "../assets/Weather.png"
+import "./style.css";
 
 class Portfolio extends Component {
 
