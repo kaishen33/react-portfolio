@@ -49,6 +49,8 @@ class Portfolio extends Component {
 
         </div>
 
+
+
         <div className="row">
 
           <div className="card col-md-4" style-prop-object="width: 18rem;">
@@ -86,6 +88,49 @@ class Portfolio extends Component {
             <h5 className="card-title">Beyond Vacation</h5>
             <a href="https://beyondvacation.herokuapp.com/" className="btn btn-primary">Github Link</a>
             <a href="https://github.com/vanessabau/projectTwo" className="btn btn-primary">View Page</a>
+          </div>
+
+        </div>
+
+
+
+        <div className="row">
+
+          <div className="card col-md-4" style-prop-object="width: 18rem;">
+            <img src="assets/Exercise.JPG" className="card-img-top" alt="Exercise Mongodb Logo"></img>
+
+          </div>
+
+          <div className="card col-md-4" style-prop-object="width: 18rem;">
+            <img src="assets/Filter List.JPG" className="card-img-top" alt="React Filter List Logo"></img>
+
+          </div>
+
+          <div className="card col-md-4" style-prop-object="width: 18rem;">
+            <img src="assets/Controller.JPG" className="card-img-top" alt="Final Phantasy Logo"></img>
+
+          </div>
+
+        </div>
+
+        <div className="row">
+
+          <div className="card-body col-md-4">
+            <h5 className="card-title">Exercise Tracker</h5>
+            <a href="https://github.com/kaishen33/mongodb" className="btn btn-primary">Github Link</a>
+            <a href="https://kai-fitness-tracker-hw.herokuapp.com/?id=5f2caaf249a8574560f9cbb1" className="btn btn-primary">View Page</a>
+          </div>
+
+          <div className="card-body col-md-4">
+            <h5 className="card-title">Filter List React</h5>
+            <a href="https://github.com/kaishen33/react" className="btn btn-primary">Github Link</a>
+            <a href=" https://react-employee-filter.herokuapp.com/" className="btn btn-primary">View Page</a>
+          </div>
+
+          <div className="card-body col-md-4">
+            <h5 className="card-title">Final Phantasy Project</h5>
+            <a href="https://github.com/kaishen33/Project3" className="btn btn-primary">Github Link</a>
+            <a href="https://dry-mountain-58151.herokuapp.com/" className="btn btn-primary">View Page</a>
           </div>
 
         </div>
