@@ -2,6 +2,7 @@ import React from "react";
 import Container from "../components/Container";
 import Row from "../components/Row";
 import Col from "../components/Col";
+import Proflie from "../assets/Proflie Edward.png"
 
 function About() {
   return (
@@ -12,6 +13,11 @@ function About() {
             <h1>My Intro Page</h1>
           </Col>
         </Row>
+
+        <div className="kaiwei">
+          <img src={Proflie} alt="KaiWei" />
+        </div>
+
         <Row>
           <Col size="md-12">
             <p>
