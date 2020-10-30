@@ -1,3 +1,16 @@
+.profile {
+  background-size: cover;
+  background-position: left;
+  background-clip: content-box;
+  border: 6px solid white;
+  height: 250px;
+  width: 250px;
+  box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+  position: relative;
+  margin: 0 auto;
+  margin-top: 30px;
+}
+
 .card-img-top {
     background-size: cover;
     background-position: center;
