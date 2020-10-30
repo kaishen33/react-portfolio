@@ -2,7 +2,7 @@ import React from "react";
 import Container from "../components/Container";
 import Row from "../components/Row";
 import Col from "../components/Col";
-import Proflie from "../assets/Proflie Edward.png"
+import proflie from "../assets/Profile Edward.png"
 
 function About() {
   return (
@@ -15,7 +15,7 @@ function About() {
         </Row>
 
         <div className="kaiwei">
-          <img src={Proflie} alt="KaiWei" />
+          <img src={proflie} alt="KaiWei" />
         </div>
 
         <Row>
