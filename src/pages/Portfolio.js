@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import finalProject from "../assets/Controller.png"
-import note from "../assets/Note.png"
+import note from "../assets/Notes.png"
 import exercise from "../assets/Exercise.png"
 import filter from "../assets/Filter List.png"
 import music from "../assets/Music Project.png"
@@ -67,7 +67,7 @@ class Portfolio extends Component {
         <div className="row">
 
           <div className="card col-md-4" style-prop-object="width: 18rem;">
-            <img src={note} className="card-img-top" alt="Employee Tracker Logo"></img>
+            <img src={note} className="card-img-top" alt="Notetaker Logo"></img>
 
           </div>
 
