@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import finalProject from "../assets/Controller.png"
-import track from "../assets/Employee Track.png"
+import note from "../assets/Note.png"
 import exercise from "../assets/Exercise.png"
 import filter from "../assets/Filter List.png"
 import music from "../assets/Music Project.png"
@@ -67,7 +67,7 @@ class Portfolio extends Component {
         <div className="row">
 
           <div className="card col-md-4" style-prop-object="width: 18rem;">
-            <img src={track} className="card-img-top" alt="Employee Tracker Logo"></img>
+            <img src={note} className="card-img-top" alt="Employee Tracker Logo"></img>
 
           </div>
 
@@ -86,7 +86,7 @@ class Portfolio extends Component {
         <div className="row">
 
           <div className="card-body col-md-4">
-            <h5 className="card-title">Employee Tracker</h5>
+            <h5 className="card-title">Note Taker</h5>
             <a href="https://github.com/kaishen33/Server" className="btn btn-primary">Github Link</a>
             <a href="https://kai-notes-db-hw.herokuapp.com/" className="btn btn-primary">View Page</a>
             <p>Notetaking application</p>
