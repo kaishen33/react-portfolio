@@ -15,25 +15,7 @@ class Search extends Component {
                 <div className="row">
 
                   <form className="col-sm-12" action="mailto:keshen@ucdavis.edu">
-                    <div className="form-group">
-                      <label className="inputName">Your Name</label>
-                      <br></br>
-                      <input type="name"></input>
-                    </div>
-
-                    <div className="form-group">
-                      <label className="exampleInputEmail1">Email address</label>
-                      <br></br>
-                      <input type="email"></input>
-                    </div>
-
-                    <div className="form-group">
-                      <label className="yourMessage">Message</label>
-                      <br></br>
-                      <textarea type="Message" cols="60" rows="10"></textarea>
-                    </div>
-
-                    <button className="btn btn-info">Submit</button>
+                    <button className="btn btn-info">Email Me</button>
                   </form>
 
                 </div>
@@ -56,7 +38,7 @@ class Search extends Component {
 
                         <a className="list-group-item list-group-item-action image"
                           href="#list-item-3">Resume</a>
-                        <a className="list-group-item list-group-item-action" href="#list-item-4">Item 4</a>
+
                       </div>
                     </div>
                   </div>
