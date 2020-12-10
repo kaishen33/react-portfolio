@@ -26,8 +26,8 @@ function About() {
               </p>
 
               <p>
-                I've recently finished my stint at U.C. Davis and
-                persuing a career as a full stack web developer. Throughout my time with U.C Davis, I've gained experience on gaining technical programming skills in HTML5, CSS3, Javascript, JQuery, Bootstrap, Node Js, MySQL, MongoDB, Express, Handelbars.js & ReactJS. Although it was quite challenging, I look forward to use and
+                I finished my stint at U.C. Davis and
+                persuing a career as a full stack web developer. Throughout my time at U.C Davis, I've gained experience on technical programming skills in HTML, CSS3, Javascript, JQuery, Bootstrap, Node Js, MySQL, MongoDB, Express, Handelbars.js & ReactJS. Although it was quite challenging, I look forward to use and
                 learn more with the current languages I am familiar with and new languages to create software products.
               </p>
 
