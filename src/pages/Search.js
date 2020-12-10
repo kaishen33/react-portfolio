@@ -15,7 +15,7 @@ class Search extends Component {
                 <div className="row">
 
                   <form className="col-sm-12" action="mailto:keshen@ucdavis.edu">
-                    <button className="btn btn-info">Email Me</button>
+                    <p>Email: keshen@ucdavis.edu</p>
                   </form>
 
                 </div>
@@ -37,7 +37,7 @@ class Search extends Component {
                           href="https://github.com/kaishen33">GitHub</a>
 
                         <a className="list-group-item list-group-item-action image"
-                          href="#list-item-3">Resume</a>
+                          href="https://docs.google.com/document/d/1hvudu2S-lYKJrPgsENLrQmG7ILL1n03vh31TCQaFAjM/edit">Resume</a>
 
                       </div>
                     </div>
