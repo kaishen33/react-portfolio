@@ -14,12 +14,13 @@ function About() {
           </Col>
         </Row>
 
-        <div className="kaiwei">
-          <img src={proflie} className="profile" alt="KaiWei" />
-        </div>
-
         <Row>
           <Col size="md-12">
+
+            <div className="kaiwei">
+              <img src={proflie} className="profile" alt="KaiWei" />
+            </div>
+
             <div className="paragraph">
               <p>
                 Welcome! Thank you for taking the time out of your day to view my
