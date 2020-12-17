@@ -43,21 +43,30 @@ class Portfolio extends Component {
             <h5 className="card-title">Music Project</h5>
             <a href="https://github.com/kaishen33/Spotify-Artist-Search" className="btn btn-primary">Github Link</a>
             <a href="https://kaishen33.github.io/Spotify-Artist-Search/index.html" className="btn btn-primary">View Page</a>
-            <p>Search artists, songs, an albums associated with each other.</p>
+            <p>
+              Search artists, songs, an albums associated with each other.
+              - HTML, CSS, Javascript, AJAX, JQuery
+            </p>
           </div>
 
           <div className="card-body col-md-4">
             <h5 className="card-title">Schedule Maker</h5>
             <a href="https://github.com/kaishen33/schedulemaker" className="btn btn-primary">Github Link</a>
             <a href="https://kaishen33.github.io/schedulemaker/index.html" className="btn btn-primary">View Page</a>
-            <p>A way to schedule your day.</p>
+            <p>
+              A way to schedule your day.
+              -HTML, CSS, Javascript
+              </p>
           </div>
 
           <div className="card-body col-md-4">
             <h5 className="card-title">Weather Report</h5>
             <a href="https://github.com/kaishen33/weather" className="btn btn-primary">Github Link</a>
             <a href="https://kaishen33.github.io/weather/index.html" className="btn btn-primary">View Page</a>
-            <p>City weather forecast application</p>
+            <p>
+              City weather forecast application
+              - HTML, Javascript
+              </p>
           </div>
 
         </div>
@@ -89,21 +98,30 @@ class Portfolio extends Component {
             <h5 className="card-title">Note Taker</h5>
             <a href="https://github.com/kaishen33/Server" className="btn btn-primary">Github Link</a>
             <a href="https://kai-notes-db-hw.herokuapp.com/" className="btn btn-primary">View Page</a>
-            <p>Notetaking application</p>
+            <p>
+              Notetaking application
+              - HTML, CSS, Javascript, MySQL, Node
+            </p>
           </div>
 
           <div className="card-body col-md-4">
             <h5 className="card-title">Employee Profiling</h5>
             <a href="https://github.com/kaishen33/OOP" className="btn btn-primary">Github Link</a>
             <a href="https://kaishen33.github.io/OOP/output/team.html" className="btn btn-primary">View Page</a>
-            <p>Employee profile generator</p>
+            <p>
+              Employee profile generator
+              - HTML, Javascript, Node
+            </p>
           </div>
 
           <div className="card-body col-md-4">
             <h5 className="card-title">Beyond Vacation</h5>
             <a href="https://beyondvacation.herokuapp.com/" className="btn btn-primary">Github Link</a>
             <a href="https://github.com/vanessabau/projectTwo" className="btn btn-primary">View Page</a>
-            <p>Outdoor rental application</p>
+            <p>
+              Outdoor rental application
+              -Handlebar, Javascript, MySQL, CSS, JQuery
+              </p>
           </div>
 
         </div>
@@ -135,21 +153,30 @@ class Portfolio extends Component {
             <h5 className="card-title">Exercise Tracker</h5>
             <a href="https://github.com/kaishen33/mongodb" className="btn btn-primary">Github Link</a>
             <a href="https://kai-fitness-tracker-hw.herokuapp.com/?id=5f2caaf249a8574560f9cbb1" className="btn btn-primary">View Page</a>
-            <p>Exercise planner and performance tracker</p>
+            <p>
+              Exercise planner and performance tracker
+              - Mongodb
+            </p>
           </div>
 
           <div className="card-body col-md-4">
             <h5 className="card-title">Filter List React</h5>
             <a href="https://github.com/kaishen33/react" className="btn btn-primary">Github Link</a>
             <a href=" https://react-employee-filter.herokuapp.com/" className="btn btn-primary">View Page</a>
-            <p>List organizer application</p>
+            <p>
+              List organizer application
+              -  React, Javascript
+            </p>
           </div>
 
           <div className="card-body col-md-4">
             <h5 className="card-title">Final Phantasy Project</h5>
             <a href="https://github.com/kaishen33/Project3" className="btn btn-primary">Github Link</a>
             <a href="https://dry-mountain-58151.herokuapp.com/" className="btn btn-primary">View Page</a>
-            <p>Free to play game application</p>
+            <p>
+              Free to play game application
+              - React, Mongodb, Javascript, CSS, Node
+            </p>
           </div>
 
         </div>
