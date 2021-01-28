@@ -55,7 +55,7 @@ class Portfolio extends Component {
             <a href="https://kaishen33.github.io/schedulemaker/index.html" className="btn btn-primary">View Page</a>
             <p>
               A way to schedule your day. </p>
-            <p>  -HTML, CSS, Javascript
+            <p>  - HTML, CSS, Javascript
               </p>
           </div>
 
@@ -118,7 +118,7 @@ class Portfolio extends Component {
             <a href="https://github.com/vanessabau/projectTwo" className="btn btn-primary">View Page</a>
             <p>
               Outdoor rental application </p>
-            <p>  -Handlebar, Javascript, MySQL, CSS, JQuery
+            <p>  - Handlebar, Javascript, MySQL, CSS, JQuery
               </p>
           </div>
 
